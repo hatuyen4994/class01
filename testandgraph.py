@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jul 23 10:02:36 2018
-
+OKAY
 @author: BETA COMPUTER
 """
 import operator
